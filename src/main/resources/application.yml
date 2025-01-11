@@ -2,7 +2,7 @@ server:
   port: 8080
 spring:
   application:
-    name: security-jwt-2025-01-07
+    name: spring-jwt
   profiles:
     active: dev
   web:
